@@ -2,9 +2,9 @@
 
 <h2> Group Members </h2>
 
-<p>De Chavez, Janelle Nikki S. 
-Pentinio, Keano C. 
-Panaligan, Kaycee A. </p>
+* De Chavez, Janelle Nikki S.
+* Pentinio, Keano C. 
+* Panaligan, Kaycee A. 
 
 <h2> Introduction </h2>
 
