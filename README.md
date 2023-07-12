@@ -16,8 +16,11 @@
 
 <h2> Purpose and Description </h2>
 
+<h2> Development Model </h2>
 
-<h2> Significance of the Proposed Project </h2>
+<h2> System Architecture </h2>
+
+
 
 
 
