@@ -15,11 +15,15 @@
 
 <p> HYL-Have You Listened is a one-of-a-kind application that blends Cognitive Behavioral Therapy (CBT) principles with SDG 3 to promote optimal health and wellbeing. It enables individuals to take charge of their mental health by utilizing evidence-based CBT techniques. Users can alter their journey toward greater mental health and a happier, more sustainable environment by combining these activities with SDG 3.  </p>
 
+<h2> Tools to be Used </h2>
+
 <h2> Purpose and Description </h2>
 
 <h2> Development Model </h2>
 
 <h2> System Architecture </h2>
+
+<h2> Screenshots of the Project </h2>
 
 
 
