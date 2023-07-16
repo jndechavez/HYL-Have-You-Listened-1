@@ -10,6 +10,8 @@
 
 <p> HYL or Have You Listened Application is an app for mental health and wellbeing that uses cognitive behavioral therapy techniques is known as a CBT app. By assisting users in identifying and treating their cognitive biases, it seeks to help users manage ailments including anxiety, depression, and sleep issues. The apps make suggestions for remedial procedures based on the users' preferences and efficacy by adapting to them using technologies like deep learning. HYL's aim is to "help people build the life skills they need, anytime, anywhere, and in any way they choose," and to that end, it not only assists users in dealing with their current problem but also provides them with mental tools to deal with future crises. Live a more self-assured, attentive, calm, and joyful life. This, along with the other factors stated below, distinguishes the app from many others in the category.</p>
 
+<p> CBT is an evidence-based treatment method that focuses on changing negative thoughts, feelings, and behaviors to improve mental health and the quality of life. HYL is an easy-to-use tool for understanding and performing CBT practices in everyday life, offering a wide range of tools, techniques, and activities. The application provides guided audio exercises and informative articles to help users better learn and use CBT practices. It explores the fundamental ideas of CBT, such as the relationship between thoughts, emotions, and behaviors. HYL is an innovative application that tracks progress and sets personalized goals for individuals to enhance their mental health and well-being. It encourages self-reflection and self-awareness, develops better coping skills, manages stress, and promotes positive life transformation. By using HYL, users can gain a better understanding of the relationship between thoughts, feelings, and behaviors, leading to positive adjustments and improved mental well-being. </p>
+
 <h2> Sustainable Development Goal </h2>
 <img src="ASSETS/sdg3.png">
 
@@ -20,6 +22,8 @@
 <h2> Purpose and Description </h2>
 
 <h2> Development Model </h2>
+
+![agilee](https://github.com/jndechavez/HYL-Have-You-Listened-1/assets/113529450/980232f5-bddb-4388-992c-788b92327034)
 
 <h2> System Architecture </h2>
 
