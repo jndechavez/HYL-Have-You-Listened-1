@@ -1,4 +1,8 @@
-# HYL-Have You Listened: Cognitive Behavioral Therapy Practices Application
+
+![banner1](https://github.com/jndechavez/HYL-Have-You-Listened-1/assets/113529450/7733014f-bae6-43e7-bd06-8070ee6d5f92)
+
+
+# <p align="center"> HYL-Have You Listened: Cognitive Behavioral Therapy Practices Application </p>
 
 <h2> Group Members </h2>
 
