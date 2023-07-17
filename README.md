@@ -16,7 +16,8 @@
 <p align="justify"> CBT is an evidence-based treatment method that focuses on changing negative thoughts, feelings, and behaviors to improve mental health and the quality of life. HYL is an easy-to-use tool for understanding and performing CBT practices in everyday life, offering a wide range of tools, techniques, and activities. The application provides guided audio exercises and informative articles to help users better learn and use CBT practices. It explores the fundamental ideas of CBT, such as the relationship between thoughts, emotions, and behaviors. HYL is an innovative application that tracks progress and sets personalized goals for individuals to enhance their mental health and well-being. It encourages self-reflection and self-awareness, develops better coping skills, manages stress, and promotes positive life transformation. By using HYL, users can gain a better understanding of the relationship between thoughts, feelings, and behaviors, leading to positive adjustments and improved mental well-being. </p>
 
 <h2> Sustainable Development Goal </h2>
-<img src="ASSETS/sdg3.png">
+
+![sdg](https://github.com/jndechavez/HYL-Have-You-Listened-1/assets/113529450/38d76363-e92c-4ec3-8ee9-ca3603fa0960)
 
 <p align="justify"> HYL-Have You Listened is a one-of-a-kind application that blends Cognitive Behavioral Therapy (CBT) principles with SDG 3 to promote optimal health and wellbeing. It enables individuals to take charge of their mental health by utilizing evidence-based CBT techniques. Users can alter their journey toward greater mental health and a happier, more sustainable environment by combining these activities with SDG 3.  </p>
 
