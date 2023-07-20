@@ -41,6 +41,10 @@
    
 <h2> Purpose and Description </h2>
 
+<p align="justify"> HYL is a cognitive behavioral therapy (CBT) software that helps users manage anxiety, sadness, and sleep difficulties. It uses deep learning and personalized therapeutic procedures to suit user preferences. By increasing confidence, concentration, calm, and happiness, HYL provides individuals with the tools they need to manage their mental health journey. Its evidence-based approach offers a wide range of tools, techniques, and activities for daily use. HYL monitors progress and develops personalized goals, encouraging self-reflection, self-awareness, and coping skill development.
+
+HYL is an innovative CBT software that helps individuals to take control of their mental health, learn effective coping techniques, and live a more fulfilling and balanced life. Users can get a better knowledge of the relationship between ideas, feelings, and behaviors by utilizing HYL, which can lead to positive changes and enhanced mental health. </p>
+
 <h2> Development Model </h2>
 
 ![agilee](https://github.com/jndechavez/HYL-Have-You-Listened-1/assets/113529450/980232f5-bddb-4388-992c-788b92327034)
@@ -56,6 +60,14 @@ HYL-Have You Listened: Cognitive Behavioral Therapy Practices Application system
   * Launch: The method focuses on the system's progressive and iterative implementation. This allows the team to make any necessary changes or improvements to the system before it is fully implemented by providing early input from users. 
 
 <h2> System Architecture </h2>
+<h3> Use Case</h3>
+
+![usecase](https://github.com/jndechavez/HYL-Have-You-Listened-1/assets/114730442/24619a49-74f8-484f-a14a-8c887fffad00)
+
+<h3> Sequence Diagram </h3>
+
+![sequence](https://github.com/jndechavez/HYL-Have-You-Listened-1/assets/114730442/312ab824-550b-4e8d-b96c-d41b4e502e26)
+
 
 <h2> Screenshots of the Project </h2>
 
