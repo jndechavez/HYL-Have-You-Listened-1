@@ -1,0 +1,108 @@
+.list p{
+    font-size: 30px;
+    text-align: center;
+    color: black;
+    margin-top: -130px;
+    
+}
+
+ion-content{
+    --background: white;
+}
+
+ion-toolbar {
+    --background: transparent;
+    --ion-color-base: transparent !important;
+    }
+
+
+.square {
+    height: 150px;
+    width: 100%;
+    background-color: #EEEEEE;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    overflow-y: hidden;
+    margin-top: -30px;
+  }
+
+.head{
+    background-color: #95BDFF;
+    height: 70px;
+    width: 100%;
+}
+
+ion-item{
+    --background: white;
+    border-bottom: none !important;
+}
+
+ion-label{
+    color: black !important;
+    margin-top: -60px;
+    margin-right: 70px;
+    float: right;
+    font-size: 15px;
+}
+
+ion-button{
+    float: right;
+    margin-left: 150px;
+    margin-right: -20px;
+    font-size: 30px;
+    margin-top: -70px;
+}
+
+#name{
+    font-size: 20px;
+}
+
+#avatar img{
+    border-radius: 50%;
+    height: 50px;
+    margin-left: 10px;
+    margin-bottom: -15px;
+}
+
+#doctors p{
+    color: black;
+    margin-left: 70px;
+    font-size: 15px;
+    margin-bottom: -13px;
+}
+
+#doctors{
+    margin-top: -60px;
+}
+
+#doctors h3{
+    color: black;
+    margin-left: 70px;
+    margin-bottom: -10px;
+}
+
+#listd{
+    margin-bottom: 10px;
+}
+
+.header{
+    margin-top: -120px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 150px;
+    
+}
+
+.title{
+    color: #fff;
+    font-family: 'Poppins', sans-serif;
+    text-transform: uppercase;
+    text-align: center;
+    margin-top: 10px;
+    font-size: 30px;
+}
+
+.header img{
+    border-radius: 20px;
+}
+

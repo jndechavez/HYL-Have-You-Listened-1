@@ -1,0 +1,114 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter&family=Poppins:wght@700&display=swap');
+ion-content{
+--background: white;
+    
+}
+
+ion-title{
+    color: black;
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+    margin-top: 15px;
+    font-size: 30px;
+    letter-spacing: 2px;
+}
+
+.title{
+    color: #fff;
+    font-family: 'Poppins', sans-serif;
+    text-transform: uppercase;
+}
+
+ion-toolbar {
+    --background: transparent;
+    --ion-color-base: transparent !important;
+    }
+
+.cloud{
+    background-color: #D5B4B4;
+    height: 150px;
+    width: 100%;
+}
+
+.cloudpic{
+    margin-top: -110px;
+}
+
+.text{
+    margin-top: -240px;
+    color: black;
+}
+
+.text h3{
+    margin-left: 40px;
+    margin-top: -30px;
+    margin-bottom: -10px;
+    color: black;
+    font-family: 'Inter', sans-serif;
+    font-weight: 600;
+    font-size: 17px;
+    text-transform: uppercase   ;
+}
+
+.text p{
+    text-align: justify;
+    font-size: 12px;
+    margin-left: 40px;
+    margin-right: 40px;
+    color: #222820;
+    font-size: 15px;
+    font-family: 'Inter', sans-serif;
+}
+
+ion-item{
+    --background: transparent;
+    --ion-color-base: transparent !important;
+}
+
+ion-card{
+    width: 90%;
+    margin-bottom: 20px;
+    margin-top: -5px;
+}
+
+ion-card p{
+    font-size: 20px;
+    margin-left: 50px;
+    font-family: 'Inter', sans-serif;
+    color: whitesmoke;
+    margin-top: 30px;
+}
+
+
+
+ion-card-header{
+    margin-top: -20px;
+}
+
+#icon{
+    margin-top: -60px;
+    font-size: 50px;
+    margin-left: -10px;
+    margin-bottom: -10px;
+    color: #D5B4B4;
+}
+
+#icon2{
+    text-align: right;
+    margin-top: -40px;
+    font-size: 30px;
+}
+
+#icon3{
+    margin-top: -60px;
+    font-size: 50px;
+    margin-left: -10px;
+    color: #D5B4B4;
+}
+
+
+#icon4{
+    text-align: right;
+    margin-top: -50px;
+    font-size: 30px;
+}

@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter&family=Poppins:wght@700&display=swap');
+
+
+ion-content{
+    --background: url(../../img/bg.png) no-repeat center/cover fixed;
+}
+
+ion-toolbar {
+    --background: transparent;
+    --ion-color-base: transparent !important;
+    }
+
+
+
+ion-icon{
+    margin-left: 5px;
+    margin-bottom: 2px;
+}
+
+.swiper {
+    width: 600px;
+    height: 300px;
+  }
+
+ion-card{
+    margin-top: 250px;
+    height: 400px;
+    width: 320px;
+    align-items: center;
+    margin-left: 20px;
+    border-radius: 10px;
+    --background: #EEEEEE;
+
+}
+
+ion-button{
+    float: right;
+    margin-right: 20px;
+    margin-top: 20px;
+    border-radius: 10px;
+    --background: #00ADB5;
+    font-family: 'Inter', sans-serif;   
+    font-size: 20px;
+    height: 35px;
+}
+
+ion-card-title{
+    font-size: 27px;
+    font-family: 'Poppins', sans-serif;
+}
+
+ion-card-content{
+    font-size: 14px;
+    font-family: 'Inter', sans-serif;
+    color: black;
+}
+
+.text{
+    color: #00ADB5;
+}
+
+.text2{
+    color: black;
+}
