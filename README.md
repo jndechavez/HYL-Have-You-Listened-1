@@ -44,6 +44,7 @@
 <p align="justify"> HYL is a cognitive behavioral therapy (CBT) software that helps users manage anxiety, sadness, and sleep difficulties. It uses deep learning and personalized therapeutic procedures to suit user preferences. By increasing confidence, concentration, calm, and happiness, HYL provides individuals with the tools they need to manage their mental health journey. Its evidence-based approach offers a wide range of tools, techniques, and activities for daily use. HYL monitors progress and develops personalized goals, encouraging self-reflection, self-awareness, and coping skill development.
 
 HYL is an innovative CBT software that helps individuals to take control of their mental health, learn effective coping techniques, and live a more fulfilling and balanced life. Users can get a better knowledge of the relationship between ideas, feelings, and behaviors by utilizing HYL, which can lead to positive changes and enhanced mental health. </p>
+<br> 
 
 <h2> Development Model </h2>
 
@@ -60,6 +61,7 @@ HYL-Have You Listened: Cognitive Behavioral Therapy Practices Application system
   * Launch: The method focuses on the system's progressive and iterative implementation. This allows the team to make any necessary changes or improvements to the system before it is fully implemented by providing early input from users. 
 
 <h2> System Architecture </h2>
+<br>
 <h3> Use Case</h3>
 
 ![usecase](https://github.com/jndechavez/HYL-Have-You-Listened-1/assets/114730442/24619a49-74f8-484f-a14a-8c887fffad00)
@@ -70,6 +72,16 @@ HYL-Have You Listened: Cognitive Behavioral Therapy Practices Application system
 
 
 <h2> Screenshots of the Project </h2>
+
+![0](https://github.com/jndechavez/HYL-Have-You-Listened-1/assets/113529450/8d09ff0c-bf0e-4834-b31b-c038dc070a9e)
+
+![Slide8](https://github.com/jndechavez/HYL-Have-You-Listened-1/assets/113529450/be412a51-05dd-4d87-b033-488191bb796c)
+
+![Slide9](https://github.com/jndechavez/HYL-Have-You-Listened-1/assets/113529450/a8fdf671-f686-4b4f-8cb9-f6425c19cc16)
+
+![Slide10](https://github.com/jndechavez/HYL-Have-You-Listened-1/assets/113529450/cc1bead2-a897-4219-bd7d-50aef0afcf4b)
+
+
 
 
 
