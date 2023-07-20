@@ -23,6 +23,22 @@
 
 <h2> Tools to be Used </h2>
 
+<h4> Ionic </h4>
+ 
+   * Ionic framework is an open-source UI toolkit for developing performant, high-quality mobile apps, desktop apps, and progressive web apps utilizing web technologies such as HTML, CSS, and JavaScript. It enables developers to create once and deploy everywhere. 
+ 
+ <h4> Angular JS </h4>   
+ 
+   * Angular JS is a JavaScript framework that is open source and used to create online apps. Anyone can freely use, modify, and distribute it. It is a good framework for developing single-phase and line-of-business applications.
+
+<h4> HTML </h4>
+
+   * HTML is an acronym that stands for Hyper Text Markup Language, which is used to create web pages and web applications. HTML is a markup language that is used to create visually appealing web pages that look well in a web browser. An HTML document is composed of several HTML tags, each of which carries unique content.
+
+<h4> CSS </h4>
+
+   * CSS is a style sheet language that is used to describe the appearance and formatting of markup language documents. It is an element of HTML that is commonly used to modify web pages and user interfaces. It supports XML documents such as plain XML, SVG, and XUL. CSS is often used in conjunction with HTML and JavaScript to design user interfaces for web and mobile applications.
+   
 <h2> Purpose and Description </h2>
 
 <h2> Development Model </h2>
