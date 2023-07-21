@@ -1,5 +1,5 @@
 
-![banner](https://github.com/jndechavez/HYL-Have-You-Listened-1/assets/113529450/c539d397-894e-4154-8dfa-1a00e73e6e47)
+![banner](https://github.com/jndechavez/HYL-Have-You-Listened-1/assets/114730442/1064079f-054b-424a-9d20-791fa25ee1fa)
 
 # <p align="center"> HYL-Have You Listened:</p> <p align="center"> Cognitive Behavioral Therapy Practices Application </p>
 
@@ -48,7 +48,7 @@ HYL is an innovative CBT software that helps individuals to take control of thei
 
 <h2> Development Model </h2>
 
-![agilee](https://github.com/jndechavez/HYL-Have-You-Listened-1/assets/113529450/980232f5-bddb-4388-992c-788b92327034)
+![agile](https://github.com/jndechavez/HYL-Have-You-Listened-1/assets/114730442/7ba078f3-0bfd-4777-83a8-18f44aebd4e9)
 
 <p align="justify"> The Agile Development methodology was used to create the  Cognitive Behavioral Therapy Practices Application. This widely used system development framework includes a number of steps that demonstrate whether the analysis and design process was effective, allowing for process adjustments to achieve goals. The application encourages the development of better coping skills, the management of stress, and the promotion of positive life transformation.
 
@@ -64,12 +64,11 @@ HYL-Have You Listened: Cognitive Behavioral Therapy Practices Application system
 <br>
 <h3> Use Case</h3>
 
-![usecase](https://github.com/jndechavez/HYL-Have-You-Listened-1/assets/114730442/24619a49-74f8-484f-a14a-8c887fffad00)
+![usecase](https://github.com/jndechavez/HYL-Have-You-Listened-1/assets/114730442/5adc6461-2f5d-4b08-bd28-ffb0bc908dc7)
 
 <h3> Sequence Diagram </h3>
 
-![sequence](https://github.com/jndechavez/HYL-Have-You-Listened-1/assets/114730442/312ab824-550b-4e8d-b96c-d41b4e502e26)
-
+![sequence](https://github.com/jndechavez/HYL-Have-You-Listened-1/assets/114730442/a97df857-e12d-4c2a-9aae-978cc167f971)
 
 <h2> Screenshots of the Project </h2>
 
